@@ -1,0 +1,26 @@
+{
+  "name": "it-consulting-website",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-bootstrap": "^2.9.1",
+    "react-intersection-observer": "^9.5.3",
+    "react-scroll": "^1.9.0",
+    "swiper": "^11.0.5"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.37",
+    "@types/react-dom": "^18.2.15",
+    "@vitejs/plugin-react": "^4.2.0",
+    "vite": "^5.0.0"
+  }
+}
